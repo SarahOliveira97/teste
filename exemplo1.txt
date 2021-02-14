@@ -1,2 +1,3 @@
 arquivo exemplo
 escrevi alguma coisa pasta teste2
+teste direto
